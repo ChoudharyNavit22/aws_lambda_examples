@@ -1,0 +1,16 @@
+{
+  "name": "image-upload-example",
+  "version": "1.0.0",
+  "description": "aws lambda example for image upload s3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Navit Choudhary",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.838.0",
+    "jimp": "^0.16.1",
+    "node-fetch": "^2.6.1"
+  }
+}
